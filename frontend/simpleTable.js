@@ -34,10 +34,10 @@ async function buildTable() {
       header.appendChild(headCell);
     });
     result.data.parameter.forEach(row => {
-      element.appendChild(document.createElement("tr"));
+      const singleRow = element.appendChild(document.createElement("tr"));
       const columns = Object.keys(row);
       columns.forEach(column => {
-        const cell = element.appendChild(document.createElement("td"));
+        const cell = singleRow.appendChild(document.createElement("td"));
         cell.innerText = row[column];
       });
     });

@@ -16,13 +16,13 @@
     }
 
     td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #251919;
     text-align: left;
     padding: 8px;
     }
 
     tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #f1f1f1;
     }
     </style>
 </head>
