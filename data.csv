@@ -1,3 +1,0 @@
-requestParameter|jsKey|smartMethod|deskEn|DescDe|frontendEn|frontendDe|type
-ba|wt.product|wtSmart.product.data.set({name})|Product Name|Produktname|E-Commerce > Products|E-Commerce > Produkte|product
-ct|wt.action|wtSmart.action.data.set({name})|Action|Event, Klicks|Action|Events|action

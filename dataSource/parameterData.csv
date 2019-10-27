@@ -1,4 +1,4 @@
-parameter|key|descDe|frontenendDe|descEn|frontendEd|type
+parameter|key|descDe|frontendDe|descEn|frontendEn|type
 ba|wt.product|Produkte im Warenkorb, Produktname|E-Commerce > Produkte|Products in shopping basket, Product name|E-Commerce > Products|ecommerce
 bw||Bandbreite in Bit/Sekunde.|Navigation > Medien > Medienbandbreite (Bit/Sekunde)|Bandwidth in bit/second.|Navigation > Media > Media Bandwidth (Bit/Second)|media
 ca|wt.productCategory|Produktkategorie [ca2, ca3, ...], Produktkategorie|"E-Commerce > Produktkategorien > [Name der Kategorie](bei Datentyp ""Text"", sonst Metrik)"|Product category [ca2, ca3, ...], Product category |"E-Commerce > Product Categories > [Name of Product Category](for datatype ""Text"", otherwise metric)"|ecommerce
