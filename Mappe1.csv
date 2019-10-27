@@ -1,0 +1,202 @@
+ba;wt.product;Produkte im Warenkorb, Produktname;E-Commerce > Produkte;Products in shopping basket, Product name;E-Commerce > Products
+bw;;Bandbreite in Bit/Sekunde.;Navigation > Medien > Medienbandbreite (Bit/Sekunde);Bandwidth in bit/second.;Navigation > Media > Media Bandwidth (Bit/Second)
+ca;wt.productCategory;Produktkategorie [ca2, ca3, ...], Produktkategorieÿ;"E-Commerce > Produktkategorien > [Name der Kategorie](bei Datentyp ""Text"", sonst Metrik)";Product category [ca2, ca3, ...], Product categoryÿ;"E-Commerce > Product Categories > [Name of Product Category](for datatype ""Text"", otherwise metric)"
+ca870;;Produktbezeichnung;E-Commerce > Produktkategorien;Product name;E-Commerce > Product Categories
+ca871;;Produkt-Hauptkategorie;E-Commerce > Produktkategorien;Product main category;E-Commerce > Product Categories
+ca872;;Produkt-Unterkategorie;E-Commerce > Produktkategorien;Product subcategory;E-Commerce > Product Categories
+ca873;;Produkt-Hersteller/Marke;E-Commerce > Produktkategorien;Product manufacturer/brand;E-Commerce > Product Categories
+ca874;;Produktbeschreibung kurz;E-Commerce > Produktkategorien;Product description short;E-Commerce > Product Categories
+ca875;;Produktbeschreibung lang;E-Commerce > Produktkategorien;Product description long;E-Commerce > Product Categories
+cb;wt.customEcommerceParameter;Parameter E-Commerce [cb2, cb3, ...], E-Commerce-Parameter;"E-Commerce > E-Commerce-Parameter > [Name des Parameters] (bei Datentyp ""Text"", sonst Metrik)";E-commerce parameter [cb2, cb3, ...], E-Commerce parameter;"E-Commerce > E-Commerce Parameters > [Name of Parameter] (for datatype ""Text"", otherwise metric)"
+cb560;;Neu- oder Bestandskunde;E-Commerce > E-Commerce Parameter;New or Returning Customer;E-Commerce > E-Commerce Parameters
+cb561;;Retourenwert;- (Metrik);Return Value;- (Metric)
+cb562;;Stornowert;- (Metrik);Cancellation Value;- (Metric)
+cb563;wt.couponValue;Gutscheinwert;- (Metrik);Coupon value, Coupon Value;- (Metric)
+cb675;;Produkt beworben;- (Metrik);Product advertised;- (Metric)
+cb760;wt.productSoldOut;Produkt ausverkauft;- (Metrik);Product sold out;- (Metric)
+cb761;wt.paymentMethod;Bezahlmethode;E-Commerce > E-Commerce Parameter;Payment method;E-Commerce > E-Commerce Parameters
+cb762;wt.shippingService;Versanddienstleister;E-Commerce > E-Commerce Parameter;Shipping service provider, Shipper;E-Commerce > E-Commerce Parameters
+cb763;wt.shippingSpeed;Versand-Geschwindigkeit;E-Commerce > E-Commerce Parameter;Shipping speed;E-Commerce > E-Commerce Parameters
+cb764;wt.shippingCosts;Versandkosten;- (Metrik);Shipping costs;- (Metric)
+cb765;wt.grossMargin;Marge / Handelsspanne, Marge/Handelsspanne;- (Metrik);Margin/mark-up;- (Metric)
+cb766;wt.orderStatus;Bestellstatus;E-Commerce > E-Commerce Parameter;Order status;E-Commerce > E-Commerce Parameters
+cb767;wt.productVariant;Produkt Variante;;Product variant;
+cb900;;App installiert;- (Metrik);App installed;- (Metric)
+cc;wt.customCampaignParameter;Kampagnen Parameter [cc2, cc3, ...], Kampagnenparameter;"Marketing > Kampagnenparater(bei Datentyp ""Text"", sonst Metrik)";Campaign parameter [cc2, cc3, ...], Campaign parameter;"Marketing > Campaign Parameters(for datatype ""Text"", otherwise metric)"
+cc601;;Optivo Linkname;Marketing > Kampagnen Parameter;Optivo Linkname;Marketing > Campaign Parameters
+cc606;;eCircle Linkname;Marketing > Kampagnen Parameter;eCircle Linkname;Marketing > Campaign Parameters
+cc607;;RTA Vertical;Marketing > Kampagnen Parameter;RTA Vertical;Marketing > Campaign Parameters
+cc608;;RTA Publisher;Marketing > Kampagnen Parameter;RTA Publisher;Marketing > Campaign Parameters
+cc609;;RTA SSP;Marketing > Kampagnen Parameter;RTA SSP;Marketing > Campaign Parameters
+cc610;;RTA Size;Marketing > Kampagnen Parameter;RTA Size;Marketing > Campaign Parameters
+cc611;;RTA Visibility;Marketing > Kampagnen Parameter;RTA Visibility;Marketing > Campaign Parameters
+cc612;;RTA Bidrequest ID;Marketing > Kampagnen Parameter;RTA Bidrequest ID;Marketing > Campaign Parameters
+cc613;;RTA Domain;Marketing > Kampagnen Parameter;RTA Domain;Marketing > Campaign Parameters
+cc614;;RTA Page;Marketing > Kampagnen Parameter;RTA Page;Marketing > Campaign Parameters
+cc616;;MA Campaign ID;Marketing > Kampagnen Parameter;MA Campaign ID;Marketing > Campaign Parameters
+cc617;;MA Item ID;Marketing > Kampagnen Parameter;MA Item ID;Marketing > Campaign Parameters
+cd;wt.customerId;Kunden-ID, URM - Eigene Besucher-ID;Besucher > URM - User Relationship Management > URM - Eigene Besucher-ID;Customer ID, URM - Custom Visitor Id;Visitors > URM - User Relationship Management > URM - Custom Visitor Id
+cdb;-wird automatisch ausgelesen-;Cross-Device-Bridge Parameter [cdb2, cdb3, ...];;Cross-device bridge parameter [cdb2, cdb3, ...];
+ce;wt.customTimeParameter;Unabh„ngiger Parameter [ce2, ce3, ...], Unabh„ngiger Parameter;"Besucher > Unabh„ngiger Parameter > [Name des Parameters] (bei Datentyp ""Text"", sonst Metrik)";Custom parameter [ce2, ce3, ...], Independent parameter;"Visitors > Independent Parameters > [Name of Parameter] (for datatype ""Text"", otherwise metric)"
+cg;wt.contentGroup;Seitenkategorie [cg2, cg3, ...], Contentgruppen;"Navigation > Contentgruppen > [Name der Contentgruppe](bei Datentyp ""Text"", sonst Metrik)";Page category [cg2, cg3, ...], Content group;Navigation > Content Groups > [Name of Content Group](for datatype ?Text?, otherwise metric)
+cg880;;Ressort/Hauptkategorie;Navigation > Contentgruppen;Ressort/Main category;Navigation > Content Groups
+cg881;;Unterkategorie;Navigation > Contentgruppen;Subcategory;Navigation > Content Groups
+cg882;;Autor;Navigation > Contentgruppen;Author;Navigation > Content Groups
+ck;wt.customClickParameter;Aktionsparameter [ck2, ck3, ...], Aktionsparameter;Navigation > Aktionsparameter(bei Datentyp ?Text?, sonst Metrik);Action parameter [ck2, ck3, ...], Event parameter;Navigation > Event Parameters(for datatype ?Text?, otherwise metric)
+ck500;;Survey - Umfragetitel;Navigation > Aktionsparameter;Survey - Survey title;Navigation > Event Parameter
+ck501;;Survey - Frage;Navigation > Aktionsparameter;Survey - Question;Navigation > Event Parameter
+ck502;;Survey - Fragebewertung;- (Metrik);Survey - Question Evaluation;- (Metric)
+ck503;;Survey - Versandstatus;Navigation > Aktionsparameter;Survey - completed status;Navigation > Event Parameter
+ck520;;Teaser - Platzierung;Navigation > Aktionsparameter;Teaser - Placement;Navigation > Event Parameter
+ck521;;Teaser - Name;Navigation > Aktionsparameter;Teaser - Name;Navigation > Event Parameter
+ck522;;Teaser - Typ;Navigation > Aktionsparameter;Teaser - Variant;Navigation > Event Parameter
+ck523;;Teaser - Ansichten;- (Metrik);Teaser - Views;- (Metric)
+ck524;;Teaser - Klicks;- (Metrik);Teaser - Clicks;- (Metric)
+ck525;;Teaser - Page Engagement;- (Metrik);Teaser - Page Engagement;- (Metric)
+ck526;;Teaser - Inhalt;Navigation > Aktionsparameter;Teaser - Content;Navigation > Event Parameter
+ck527;;Teaser - Variante;Navigation > Aktionsparameter;Teaser - Type;Navigation > Event Parameter
+ck529;;Teaser - Widget Request ID;- (nicht im Frontend verfgbar);Teaser - Widget Request ID;- (not available in the frontend)
+ck530;;Teaser - Zielgruppe;Navigation > Aktionsparameter;Teaser - Target Group;Navigation > Event Parameter
+ck531;;Teaser - Regel;Navigation > Aktionsparameter;Teaser - Rule;Navigation > Event Parameter
+ck532;;Teaser - Item Page in Widget;Navigation > Aktionsparameter;Teaser - Item Page in Widget;Navigation > Event Parameter
+ck533;;Teaser - Item Position in Widget;Navigation > Aktionsparameter;Teaser - Item Position in Widget;Navigation > Event Parameter
+ck540;;Scrolltiefen;Navigation > Aktionsparameter;Scroll Depth;Navigation > Event Parameter
+ck550;;Social Media Buttons;Navigation > Aktionsparameter;Social Media Buttons;Navigation > Event Parameter
+ck830;;Player type;Navigation > Aktionsparameter;Player type;Navigation > Event Parameter
+ck831;;Vordergrund/Hintergrund;Navigation > Aktionsparameter;Foreground/background;Navigation > Event Parameter
+ck832;;Uptime/live-alive;- (Metrik);Uptime/live-alive;- (Metric)
+ck833;;Viewing platform;Navigation > Aktionsparameter;Viewing platform;Navigation > Event Parameter
+ck835;;Page Type;Navigation > Aktionsparameter;Embed type;Navigation > Event Parameter
+ck910;;Fehler - Art;- (Metrik);Page Type;Navigation > Event Parameter
+ck911;;Fehler - Name;Navigation > Aktionsparameter;Crash - Type;- (Metric)
+ck912;;Fehler - Nachricht;Navigation > Aktionsparameter;Crash - Name;Navigation > Event Parameter
+ck913;;Fehler - Ursache Nachricht;Navigation > Aktionsparameter;Crash - Message;Navigation > Event Parameter
+ck914;;Fehler - Stack;Navigation > Aktionsparameter;Crash - Cause Message;Navigation > Event Parameter
+ck915;;Fehler - Ursache Stack;Navigation > Aktionsparameter;Crash - Stack;Navigation > Event Parameter
+ck916;;Fehler - User Info;Navigation > Aktionsparameter;Crash - Cause Stack;Navigation > Event Parameter
+ck917;;Fehler - Return Addresses;Navigation > Aktionsparameter;Crash - User Info;Navigation > Event Parameter
+co;wt.productCost;Produktkosten;"Metriken ""Wert Produktansichten"", ""Wert in den Warenkorb gelegte Produkte"", ""Wert gekaufte Produkte""";Crash - Return Addresses;Navigation > Event Parameter
+cp;wt.customParameter;Seitenparameter [cp2, cp3, ...], Seitenparameter;"Navigation > Seitenparameter > [Name des Parameters] (bei Datentyp ""Text"", sonst Metrik)";Product cost, Product costs;"Metrics ""Value Product Views"", ""Value Product Added to Cart"", ""Value Purchased Products"""
+cp570;;Seitenladezeit;- (Metrik);Page parameter [cp2, cp3, ...], Page parameter;"Navigation > Page Parameters > [Name of Page Parameter] (for datatype ""Text"", otherwise metric)"
+cp750;;Adclear Click ID;- (nicht im Frontend verfgbar);Page Load Time;- (Metric)
+cp751;;Google Click ID;- (nicht im Frontend verfgbar);Adclear Click ID;- (not available in the frontend)
+cp752;;Divolution Click ID;- (nicht im Frontend verfgbar);Google Click ID;- (not available in the frontend)
+cp770;-wird automatisch ausgelesen-;Markierung des Tab-Browsing Requests, TabBrowsing;- (Metrik);Divolution Click ID;- (not available in the frontend)
+cp771;wt.numberSearchResults;Anzahl Suchergebnisse;- (Metrik);Marking the tabbed browsing request, Consider browser tabs;- (Metric)
+cp772;wt.errorMessages;Fehlermeldungen;Navigation > Seitenparameter;Number of search results;- (Metric)
+cp773;wt.paywall;Paywall-Aufrufe;Navigation > Seitenparameter;Error messages;Navigation > Page Parameters
+cp774;wt.articleTitle;Artikelberschrift;Navigation > Seitenparameter;Paywall calls;Navigation > Page Parameters
+cp775;wt.contentTags;Content Tags;Navigation > Seitenparameter;Article header, Article heading;Navigation > Page Parameters
+cp776;wt.pageTitle;Seitentitel;Navigation > Seitenparameter;Content tags;Navigation > Page Parameters
+cp777;wt.pageType;Seitentyp, Page Type;Navigation > Seitenparameter;Page title;Navigation > Page Parameters
+cp778;wt.pageLength;Seitenl„nge;;Page type;Navigation > Page Parameters
+cp779;wt.daysSincePublication;Tage seit der Ver”ffentlichung, Days since publication;- (Metrik);Page length;
+cp780;;Viewport;Navigation > Seitenparameter;Days since publication;- (Metric)
+cp781;;Testing - Experiment;Navigation > Seitenparameter;Viewport;Navigation > Page Parameters
+cp782;;Testing - Variante;Navigation > Seitenparameter;Experiment;Navigation > Page Parameters
+cp783;;Bildschirm Ausrichtung;Navigation > Seitenparameter;Version;Navigation > Page Parameters
+cp784;;requestURLStoreQueue;- (Metrik);Screen Orientation;Navigation > Page Parameters
+cp785;;Pixelvariante;Navigation > Seitenparameter;requestURLStoreQueu;- (Metric)
+cp786;;Pixelversion;Navigation > Seitenparameter;Pixel variant;Navigation > Page Parameters
+cr;wt.currency;Produkt W„hrung, Produktw„hrung. Dient bei Erfassung unterschiedlicher W„hrung zur automatischen Umrechnung.;-;Product currency, Product currency. Used to indicate currency in an account for automatic conversion.;-
+cs;wt.customSessionParameter;Session Parameter [cs2, cs3, ...], Sessionparameter;"Besucher > Sessionparameter > [Name des Parameters] (bei Datentyp ""Text"", sonst Metrik)";Session parameter [cs2, cs3, ...], Session parameter;Visitors > Session Parameters > [Name of Parameter] (for datatype ?Text?, otherwise metric)
+cs510;;Nugg.ad - Alter;Besucher > Session-Parameter;Nugg.ad - Age;Visitors > Session Parameters
+cs511;;Nugg.ad - Geschlecht;Besucher > Session-Parameter;Nugg.ad - Gender;Visitors > Session Parameters
+cs512;;Nugg.ad - T„tigkeit;Besucher > Session-Parameter;Nugg.ad - Occupation;Visitors > Session Parameters
+cs513;;Nugg.ad - Pers”nliches Nettoeinkommen;Besucher > Session-Parameter;Nugg.ad - Personal Net Income;Visitors > Session Parameters
+cs514;;Nugg.ad - Haushaltseinkommen;Besucher > Session-Parameter;Nugg.ad - Householdincome;Visitors > Session Parameters
+cs515;;Nugg.ad - Haushaltsgr”áe;Besucher > Session-Parameter;Nugg.ad - Household size;Visitors > Session Parameters
+cs516;;Nugg.ad - Bildung;Besucher > Session-Parameter;Nugg.ad - Education;Visitors > Session Parameters
+cs517;;Nugg.ad - Haushalter/Haushaltsfherschaft;Besucher > Session-Parameter;Nugg.ad - Housekeeper;Visitors > Session Parameters
+cs518;;Nugg.ad - Haupteinkommensbezieher;Besucher > Session-Parameter;Nugg.ad - Main Breadwinner;Visitors > Session Parameters
+cs519;;Nugg.ad - Kinder;Besucher > Session-Parameter;Nugg.ad - Children;Visitors > Session Parameters
+cs534;;Tv&Radio-Umfeld danach;Besucher > Session-Parameter;Tv&Radio-Environment after;Visitors > Session Parameters
+cs536;;Tv&Radio-Spotname;Besucher > Session-Parameter;Tv&Radio-Name of spot;Visitors > Session Parameters
+cs537;;Tv&Radio-Sender;Besucher > Session-Parameter;Tv&Radio-Broadcast Station;Visitors > Session Parameters
+cs538;;Tv&Radio-Motiv;Besucher > Session-Parameter;Tv&Radio-Theme;Visitors > Session Parameters
+cs547;;Tv&Radio-Spotdauer;Besucher > Session-Parameter;Tv&Radio-Spot duration;Visitors > Session Parameters
+cs548;;Tv&Radio-Kosten pro Spot;Besucher > Session-Parameter;Tv&Radio-Costs per Spot;Visitors > Session Parameters
+cs549;;Tv&Radio-Reichweite;Besucher > Session-Parameter;Tv&Radio-Range;Visitors > Session Parameters
+cs600;;Optivo Receiver-ID;Besucher > Session-Parameter;Optivo Receiver-ID;Visitors > Session Parameters
+cs605;;eCircle Receiver-ID;Besucher > Session-Parameter;eCircle Receiver-ID;Visitors > Session Parameters
+cs650-669;;Klick-Pfad-Analyse;Besucher > Session-Parameter;Click Path Analysis;Visitors > Session Parameters
+cs680;;Frequenz-Analyse: Zeit des letzten Besuchs in Tagen;Besucher > Session-Parameter;Frequency Analysis: Time of the last visits (days);Visitors > Session Parameters
+cs682;;Frequenz-Analyse: t„glicher Besucher;- (Metrik);Frequency Analysis: daily visitor;- (Metric)
+cs683;;Frequenz-Analyse: w”chentlicher Besucher;- (Metrik);Frequency Analysis: weekly visitor;- (Metric)
+cs684;;Frequenz-Analyse: monatlicher Besucher;- (Metrik);Frequency Analysis: monthly visitor;- (Metric)
+cs685;;Frequenz-Analyse: Datum erster Besuch;Besucher > Session-Parameter;Frequency Analysis: date of the visitor;Visitors > Session Parameters
+cs800;wt.loginStatus;Login-Status;Besucher > Session-Parameter;Login status;Visitors > Session Parameters
+cs801;-wird automatisch ausgelesen-;Pixel-Version;;Pixel version;
+cs802;-wird automatisch ausgelesen-;Tracking-Plattform;Besucher > Session-Parameter;Tracking platform;Visitors > Session Parameters
+cs803;;Adblocker;Besucher > Session-Parameter;Adblocker;Visitors > Session Parameters
+cs804;;App-Version;Besucher > Session-Parameter;App version;Visitors > Session Parameters
+cs805;;App-Release;Besucher > Session-Parameter;App release;Visitors > Session Parameters
+cs806;;Mobilfunkanbieter;Besucher > Session-Parameter;Mobile wireless provider;Visitors > Session Parameters
+cs807;;Verbindungsgeschwindigkeit/-art;Besucher > Session-Parameter;Connection speed/type;Visitors > Session Parameters
+cs809;;Advertiser-ID;- (nicht im Frontend verfgbar);Playstore-Advertiser-ID;- (not available in the frontend)
+cs810;;Google-eMail;Besucher > Session-Parameter;Playstore-eMail;Visitors > Session Parameters
+cs811;;Google-Vorname;Besucher > Session-Parameter;Playstore-first name;Visitors > Session Parameters
+cs812;;Google-Nachname;Besucher > Session-Parameter;Playstore-family name;Visitors > Session Parameters
+cs813;;Advertising Opt Out;- (Metrik);Advertising Opt Out;- (Metric)
+cs814;;Android API Level;- (nicht im Frontend verfgbar);Android API Level;- (not available in the frontend)
+cs815;;App updated;- (Metrik);App updated;- (Metric)
+cs816;;App preinstalled;- (Metrik);App preinstalled;- (Metric)
+cs817;;Adclear Kaufwahrscheinlichkeit;- (Metrik);AdClear purchase probability;- (Metric)
+cs818;;Net Promoter Score;- (Metrik);Net Promoter Score;- (Metric)
+cs819;;NPS Feedback;Besucher > Session-Parameter;NPS Feedback;Visitors > Session Parameters
+ct;wt.linkId;Klick- oder Linkname, Aktionsname;Navigation > Aktionen;Click or link name, Event name;Navigation > Events
+eid;-wird automatisch ausgelesen-;Webtrekk EverId, Endger„te Besucher-IDs;"n.a. (Dimension ""Endger„te Besucher-IDs"")";Webtrekk EverId, End device Visitor Ids;n.a. (Dimension: End device Visitor Ids)
+eor;;End of Request. Dient der Auswertung bei Webtrekk, ob Requests vollst„ndig erfasst wurden.;;End of request. Serves for evaluation at Webtrekk as to whether requests are completely recorded or not.;
+fn;-wird automatisch ausgelesen-;Formularname;Navigation > Formulare > Formulare;Form name;Navigation > Forms > Forms
+fns;-wird automatisch ausgelesen-;Force New Session - 1. Request einer Session 1, alle weiteren 0;;Force New Session;
+ft;-wird automatisch ausgelesen-;Formularfelder;Navigation > Formulare > Formularfelder;Form fields, Form field;Navigation > Forms > Form Fields
+fvc;;Nicht in Verwendung(ehemals erster Besuch fr URM);Nicht in Verwendung;not used (formally for URM);not used
+geid;-wird automatisch ausgelesen-;Webtrekk GEID;;Webtrekk GEID;
+is;wt.internalSearch;Suchbegriff der internen Suchfunktion;Marketing > Suchphrasen > Interne Suchphrasen;Search term of the internal search function, Search term of internal search function;Marketing > Search Phrases > Internal Search Phrases
+la;-wird automatisch ausgelesen-;L„ndercode der Spracheinstellung des Clients (z.B. 'de');Besucher > Geographie > Browsersprache;"Country code for client language setting (such as 'de'), Country code of the language setting of the client (e.g. ""de"")";Visitors > Geography > Browser Language
+lvc;;Nicht in Verwendung (ehemals letzter Besuch fr URM);Nicht in Verwendung;not used (formally for URM);not used
+mc;wt.campaignId;"Kampagnen ID bestehend aus Mediacode Parameter und Wert (""wt_mc=newsletter""), Kampagnen ID bestehend aus Parameter und Wert (z.B. ""wt_mc=newsletter"")";Marketing > Kampagnen > Werbemittel;"Campaign ID consisting of media code parameter and value (""wt_mc=newsletter""), Campaign ID, consists of parameter and value (e.g. ""wt_mc=newsletter"")";Marketing > Campaigns > Advertising Media
+mca;wt.campaignAction;Kampagnen Aktion [c = click, v = view], Kampagnenaktion [c = click, v = view];"Metriken: ""Kampagnenansichten"", ""Kampagnenklicks""";Campaign action [c = click, v = view];"Metrics: ""Campaign Views"", ""Campaign Clicks"""
+mg;;Medienkategorie;Medien > Medienkategorien > [Name der Medienkategorie];Media category;"Navigation > Media > Media Categories > [Name of Category](for datatype ""Text"", otherwise metric)"
+mg890;;Video Title;Navigation > Medienkategorien;Video Title;Navigation > Media Categories
+mg891;;Video URL;Navigation > Medienkategorien;Video URL;Navigation > Media Categories
+mg892;;Video Thumbnail;Navigation > Medienkategorien;Video Thumbnail;Navigation > Media Categories
+mi;;Name des Videos;Navigation > Medien > Medien;Name of the video;Navigation > Media > Media
+mk;;Position der Media-Players;Navigation > Medien > Medienabschnitte;Position of the media player;Navigation > Media > Media Chapters
+mt1;;Aktuelle Position innerhalb des Videos.;"Metrik: ""Spieldauer""";Current position of the video;"Metric: ""Run Time"""
+mt2;;Gesamtspieldauer des Videos.;"Metrik: ""Medienspieldauer""";Total run time of the video;"Metric: ""Media Run Time"""
+mut;;Stummschaltung [1-Stummschaltung aktiv];Navigation > Medien > Medienplayer lautlos;Mute [1-mute active];Navigation > Media > Media Player Mute
+np;-wird automatisch ausgelesen-;Installierte Browser Plugins;Besucher > Technologie > Plugins;Browser Plugins;Visitors > Technology > Plugins
+oi;wt.orderId;Order ID, Bestellnummer;E-Commerce > Bestellungen einzeln;Order ID;E-Commerce > Orders separately
+one;-wird automatisch ausgelesen-;New vs. Returning Visitor - 1 Wenn es noch kein EID Cookie gibt, 0 wenn EID Cookie vorhanden;;Marks the first request of a visitor with 1, otherwise 0;E-Commerce > Orders separately
+ov;wt.orderValue;Bestellwert;"Metrik ""Bestellwert""";Order value;"Metric ""Order Value"""
+p;;Version Webtrekkpixel |Name der Seite | Javascript aktiviert | Bildschirmaufl”sung | Farbtiefe in Bit | Cookies eingeschaltet | Timestamp des Client (in Millisekunden) | Referrer (ansonsten die codierte URL) | Innere Aufl”sung des Browserfensters | Java installiert;- | Navigation > Seiten > Seiten | Besucher > Technik > JavaScript | Besucher > Technik > Bildschirmaufl”sung | Besucher > Technik > Farbtiefe | Besucher > Technik > Cookie | - | Marketing > Referrer | Besucher > Technik > Browseraufl”sung | Besucher > Technik > Java;Pixel version | Name of the page | Javascript activated | Screen resolution | Color depth in bit | Cookies activated | Time stamp of the client (in milliseconds) | Referrer (otherwise the coded URL) | Visible area of the browser window | Java installed;- | Navigation > Pages > Pages | Visitors > Technology > Javascript | Visitors > Technology > Javascript | Visitors > Technology > Screen resolution | Visitors > Technology > Colour depth | Visitors > Technology > Cookie | - | Marketing > Referrers | Visitors > Technology > Browser resolution | Visitors > Technology > Java
+pu;;Page-URL;"Fr Feature ""Dataprofiles"" genutzt";Page URL;"Used for the feature ""Dataprofiles"""
+qn;wt.productQuantity;Anzahl der Produkte;"Metriken ""Anzahl Produktansichten"", ""Anzahl in den Warenkorb gelegte Produkte"", ""Anzahl gekaufte Produkte""";Number of products;"Metrics ""Qty Product Views"", ""Qty Product Added to Cart"", ""Qty Purchased Products"""
+st;wt.productStatus;Status des Warenkorbes [ add, conf, view ], Status des Warenkorbes;"Metriken ""Anzahl Produktansichten"", ""Anzahl in den Warenkorb gelegte Produkte"", ""Anzahl gekaufte Produkte""";Status of the shopping basket [ add, conf, view ], Status of the shopping cart;"Metrics ""Qty Product Views"", ""Qty Product Added to Cart"", ""Qty Purchased Products"""
+tb;-wird automatisch ausgelesen-;Markierung des Tab-Browsing Requests;;Marking the tabbed browsing request;
+tz;-wird automatisch ausgelesen-;Zeitzone;;Timezone;
+uc;wt.urmCategory;Kunden Parameter [uc2, uc3, ...], URM-Kategorie;Besucher > URM-Kategorien;Customer parameter [uc2, uc3, ...], URM category;Visitors > URM Categories
+uc700;;URM - Email;Besucher > URM-Kategorien;URM - Email;Visitors > URM Categories
+uc701;wt.emailRID;E-Mail Receiver-ID, URM - Email Receiver-ID;Besucher > URM-Kategorien;E-mail receiver ID, URM - Email Receiver-ID;Visitors > URM Categories
+uc702;wt.emailOptin;E-Mail Opt-In [ 1 = yes, 2 = no ], URM - Email-Optin;Besucher > URM-Kategorien;E-mail opt-in [ 1 = yes, 2 = no ], URM - Email-Optin;Visitors > URM Categories
+uc703;;URM - Vorname;Besucher > URM-Kategorien;URM - First Name;Visitors > URM Categories
+uc704;;URM - Nachname;Besucher > URM-Kategorien;URM - Last Name;Visitors > URM Categories
+uc705;;URM - Telefon;Besucher > URM-Kategorien;URM - Telephone;Visitors > URM Categories
+uc706;wt.gender;Geschlecht [ 1 = male, 2 = female ], URM - Geschlecht;Besucher > URM-Kategorien;Gender [ 1 = male, 2 = female ], URM - Gender;Visitors > URM Categories
+uc707;wt.birthday;Geburtstag [ JJJJMMDD ], URM - Geburtstag;Besucher > URM-Kategorien;Date of birth [YYYMMDD], URM - Birthday;Visitors > URM Categories
+uc708;;URM - Land;Besucher > URM-Kategorien;URM - Country;Visitors > URM Categories
+uc709;;URM - Wohnort;Besucher > URM-Kategorien;URM - City;Visitors > URM Categories
+uc710;;URM - Postleitzahl;Besucher > URM-Kategorien;URM - Postal Code;Visitors > URM Categories
+uc712;;URM - Hausnummer;Besucher > URM-Kategorien;URM - House Number;Visitors > URM Categories
+uc713;;URM - Stammdaten validiert;Besucher > URM-Kategorien;URM - Data validated;Visitors > URM Categories
+uc850;;NPS Score;- (Metrik);NPS Score;- (Metric)
+uc851;;NPS Score Feedback;Besucher > URM-Kategorien;NPS Score Feedback;Visitors > URM Categories
+uc852;;Premium-/Paywall-Nutzerstatus;Besucher > URM-Kategorien;Premium/Paywall user status;Visitors > URM Categories
+uc853;;RTA - Cost;- (Metrik);RTA - Cost;- (Metric)
+uc854;;RTA - Ad views;- (Metrik);RTA - Ad views;- (Metric)
+uc855;;RTA - Ad Clicks;- (Metrik);RTA - Ad Clicks;- (Metric)
+uc856;;RTA - Auctions;- (Metrik);RTA - Auctions;- (Metric)
+vol;;Lautst„rke [0-255];Navigation > Medien > Medienplayer Lautst„rke;Volume [0-255];Navigation > Media > Media Player Volume
+wt_vt;-wird automatisch ausgelesen-;Name des AB-Tests, Variante des AB-Tests [1,2,3?];Navigation > Tests > [Name des Tests];Name of the AB test, AB test variant [1,2,3?];Navigation > Tests > [Name of the test]
+x;;Timestamp;n.a.;Time stamp;n.a.
